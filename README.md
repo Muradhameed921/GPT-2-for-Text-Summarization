@@ -59,4 +59,4 @@ jupyter notebook GPT2.ipynb
 - Deploy the trained model as an API for real-world usage.
 
 ## Output
-![Sudoku Solver Screenshot](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg)
+![GPT2 Text Summarization Screenshot](https://github.com/Muradhameed921/GPT-2-for-Text-Summarization/blob/main/GPT.png)
